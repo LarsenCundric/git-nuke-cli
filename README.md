@@ -65,6 +65,17 @@ git nuke --merged ────────────────────�
 - **Safety first**: Refuses to nuke the current branch, asks for confirmation by default
 - **Force mode**: `-f` skips confirmation for scripting
 
+## Part of [git-enhanced](https://github.com/LarsenCundric/git-enhanced)
+
+Install all git power tools at once: `npm install -g git-enhanced`
+
+| Tool | What it does |
+|---|---|
+| [git who](https://github.com/LarsenCundric/git-who-cli) | Find who knows a file best |
+| [git standup](https://github.com/LarsenCundric/git-standup-cli) | What did I do yesterday? |
+| **git nuke** | Delete a branch everywhere |
+| [git undo](https://github.com/LarsenCundric/smart-git-undo) | Smart undo for any git operation |
+
 ## License
 
 MIT
